@@ -9,7 +9,7 @@ export default function Footer() {
         <InnerWrap>
           <Logo>
             <a href="/">
-              <Img src="/public/img/default-logo.png" alt="크림로고" />
+              <Img src="/img/logo.png" alt="크림로고" />
             </a>
           </Logo>
           <a href="https://github.com/osoon9295/cream" style={{ color: '#BDBDBD' }}>
